@@ -86,7 +86,7 @@ N_UP_SERVICE='0'
 REINSTALL='0'
 
 # --version ?
-SPECIFIED_VERSION=''
+SPECIFIED_VERSION='v25.8.3'
 
 # --local ?
 LOCAL_FILE=''
